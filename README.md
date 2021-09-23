@@ -41,7 +41,7 @@ npm install
 
 # Запуск webpack-dev-server на localhost:8080
 npm run start
-или
+# или
 npm run dev
 
 # Сборка для продакшена
