@@ -1,4 +1,4 @@
-# traffic-light
+# Эмулятор светофора (Traffic Light emulator)
 
 > Vue.js SPA Webpack
 
