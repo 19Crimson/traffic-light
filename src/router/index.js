@@ -16,11 +16,6 @@ const routes = [
     component: TrafficLight
   }
 ]
-/* router.beforeEach((to, next) => {
-  if (!['red', 'yellow', 'green'].includes(to.params.color)) {
-      next({path: '/red'})
-  }
-}) */
 
 export default new Router({
   routes,
